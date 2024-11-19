@@ -57,94 +57,98 @@ body {
 }
 
 .header__a {
-        font-weight: 600;
-            font-size: 55px;
-            line-height: 1.66;
-            text-decoration: none;
-        color: #000;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 1.66;
+    text-decoration: none;
+    color: #000;
 }
+
 .heder__button {
     font-weight: 600;
-        font-size: 15px;
-        line-height: 1.66;
-        color: #ffe5b8;
-        background-color: #ff8214;
-        border-radius: 10px;
-        width: 183px;
-        height: 83px;
-        border: 1px solid #ff8214;
-        margin-right: 20px;
-    
-        &:focus {
-            background-color: #ee9a4f;
-            border: 1px solid #ee9a4f;
-            transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
-        }
-    
-        &:hover {
-            background-color: #ee9a4f;
-            border: 1px solid #ee9a4f;
-            transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
-        }
+    font-size: 15px;
+    line-height: 1.66;
+    color: #ffe5b8;
+    background-color: #ff8214;
+    border-radius: 10px;
+    width: 183px;
+    height: 83px;
+    border: 1px solid #ff8214;
+    margin-right: 20px;
+
+    &:focus {
+        background-color: #ee9a4f;
+        border: 1px solid #ee9a4f;
+        transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
+    }
+
+    &:hover {
+        background-color: #ee9a4f;
+        border: 1px solid #ee9a4f;
+        transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
+    }
 }
+
 .section {
-        display: flex;
-            /* align-items: center;
+    display: flex;
+    /* align-items: center;
             justify-content: center; */
-            flex-direction: column;
-            gap: 15px;
-            margin-left: 250px;
+    flex-direction: column;
+    gap: 15px;
+    margin-left: 250px;
 }
+
 .link {
     display: flex;
     flex-direction: column;
 }
+
 .monobank__button {
     font-weight: 600;
-        font-size: 15px;
-        line-height: 1.66;
-        color: #ffffff;
-        background-color: #4e4e50;
-        border-radius: 10px;
-        width: 253px;
-        height: 63px;
-        border: 1px solid #4e4e50;
-        margin-right: 20px;
-    
-        &:focus {
-            background-color: #6e6f6e;
-            border: 1px solid #6e6f6e;
-            transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
-        }
-    
-        &:hover {
-            background-color: #6e6f6e;
-            border: 1px solid #6e6f6e;
-            transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
-        }
+    font-size: 15px;
+    line-height: 1.66;
+    color: #ffffff;
+    background-color: #4e4e50;
+    border-radius: 10px;
+    width: 253px;
+    height: 63px;
+    border: 1px solid #4e4e50;
+    margin-right: 20px;
+
+    &:focus {
+        background-color: #6e6f6e;
+        border: 1px solid #6e6f6e;
+        transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
+    }
+
+    &:hover {
+        background-color: #6e6f6e;
+        border: 1px solid #6e6f6e;
+        transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
+    }
 }
 
 .pumb__button {
     font-weight: 600;
-        font-size: 15px;
-        line-height: 1.66;
-        color: #ffffff;
-        background-color: #fe0000;
-        border-radius: 10px;
-        width: 253px;
-        height: 63px;
-        border: 1px solid #fe0000;
-        margin-right: 20px;
-    
-        &:focus {
-            background-color: #f95959;
-            border: 1px solid #f95959;
-            transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
-        }
-    
-        &:hover {
-            background-color: #f95959;
-            border: 1px solid #f95959;
-            transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
-        }
+    font-size: 15px;
+    line-height: 1.66;
+    color: #ffffff;
+    background-color: #fe0000;
+    border-radius: 10px;
+    width: 253px;
+    height: 63px;
+    border: 1px solid #fe0000;
+    margin-right: 20px;
+
+    &:focus {
+        background-color: #f95959;
+        border: 1px solid #f95959;
+        transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
+    }
+
+    &:hover {
+        background-color: #f95959;
+        border: 1px solid #f95959;
+        transition: box-shadow 400ms ease-in 0s, color 400ms ease-in 0s, background-color 400ms ease-in 0s;
+    }
 }
